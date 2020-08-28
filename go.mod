@@ -1,3 +1,3 @@
-module find-org-pulls
+module findorgpulls
 
 go 1.14
